@@ -1,5 +1,7 @@
 # SnakesAndLadders
-It is a console based 2 player snakes and ladders game with configurable snakes and ladders.
+It is a console based 2 player snakes and ladders game with configurable snakes and ladders.<br />
+
+Run main.py with other files present in project directory
 
 # Assumptions made:
 1.Both players are initially at 0,0 position and they start moving ahead as soon as first player rolls dice. <br />
